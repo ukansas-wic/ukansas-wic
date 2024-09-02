@@ -23,12 +23,12 @@ We facilitate engaging programming workshops for middle school girls, introducin
 
 ### ❗Leadership❗
 
-- President: Sriya Annem
-- Vice-President: Audrey Pan
-- Treasurer: Anna Ross
-- Website Rep: Sabeen Ahmad
-- Social Media Chair: Anna Lin
-- Outreach Chair: Tanu Sakaray
-- Outreach Chair: Christina Sorensen
-- Logistics Chair: Samantha Adorno
-- IHAWKE Rep: Shayna Weinstein
+`President: Sriya Annem`
+`Vice-President: Audrey Pan`
+`Treasurer: Anna Ross`
+`Website Rep: Sabeen Ahmad`
+`Social Media Chair: Anna Lin`
+`Outreach Chair: Tanu Sakaray`
+`Outreach Chair: Christina Sorensen`
+`Logistics Chair: Samantha Adorno`
+`IHAWKE Rep: Shayna Weinstein`
